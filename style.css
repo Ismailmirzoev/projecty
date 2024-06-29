@@ -1,0 +1,30 @@
+.parent {
+    background-image: linear-gradient(to bottom,rgb(0, 195, 255),rgb(0, 143, 187),rgb(48, 146, 170),rgb(0, 183, 255));
+    width: 600px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.parent1 {
+    background-color: transparent;
+    border: 2px solid white;
+    width: 340px;
+    height: 300px;
+    position: absolute;
+    top: 70px;
+}
+.b1 {
+    width: 200px;
+    height: 30px;
+}
+button {
+    width: 210px;
+    height: 35px;
+    color: white;
+    background-image: linear-gradient(to right,rgb(0, 151, 151),rgb(2, 158, 197),rgb(0, 217, 255));
+}
+i {
+    width: 10px;
+    height: 10px;
+}
